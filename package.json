@@ -1,0 +1,8 @@
+{
+  "name": "wav",
+  "version": "0.1.0",
+  "description": "wav",
+  "readme": "wav",
+  "bin": "cli.js",
+  "license": "MIT"
+}
